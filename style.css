@@ -1,0 +1,24 @@
+.border-red {
+    border: 1px solid red !important;
+}
+.container {
+    width: 75%;
+    margin-top:5%;
+    margin-bottom:5%;
+    /* display: flex; */
+    /* flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+    text-align: center;
+}
+canvas {
+    display: inline;
+ }
+#myCanvas{
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin:auto;
+}
